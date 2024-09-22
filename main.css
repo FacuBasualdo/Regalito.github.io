@@ -1348,4 +1348,8 @@ body {
 .container * {
   -webkit-animation-play-state: paused !important;
           animation-play-state: paused !important;
+   display: flex;
+   justify-content: center; /* Centra horizontalmente */
+   align-items: center; /* Centra verticalmente */
+   min-height: 100vh;
 }/*# sourceMappingURL=main.css.map */
